@@ -7,6 +7,6 @@ You can also enable alerts for when a certain threshold (either in points or in 
 ![Flexible Momentum indicator signals a large price change  a EUR/USD chart over the GBP/USD chart](https://github.com/EarnForex/FlexibleMomentum/blob/main/README_Images/flexible-momentum-signals-large-price-change-mt5.png)
 
 A detailed description of the indicator can be found here:
-[https://www.earnforex.com/forum/threads/overlay-chart.8939/](https://www.earnforex.com/metatrader-indicators/Flexible-Momentum/)https://www.earnforex.com/metatrader-indicators/Flexible-Momentum/
+https://www.earnforex.com/metatrader-indicators/Flexible-Momentum/
 
 Any contributions to the code are welcome!
